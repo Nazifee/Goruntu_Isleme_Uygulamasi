@@ -1,0 +1,11 @@
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\bin\Debug\goruntu_proje.exe.config
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\bin\Debug\goruntu_proje.exe
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\bin\Debug\goruntu_proje.pdb
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.csproj.AssemblyReference.cache
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.Form1.resources
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.Properties.Resources.resources
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.csproj.GenerateResource.cache
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.csproj.CoreCompileInputs.cache
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.exe
+C:\Users\Bilgisayar\source\repos\goruntu_proje\goruntu_proje\obj\Debug\goruntu_proje.pdb
